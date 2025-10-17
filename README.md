@@ -1,2 +1,2 @@
-Oyun şuanda geliştirme aşamasında. 
-Oyun amacı fizik tabanlı bit eşya taşımacılık oyunu.
+Oyun fizik tabanlı bit eşya taşımacılık oyunu.
+Şuanda geliştirme aşamasında. 
